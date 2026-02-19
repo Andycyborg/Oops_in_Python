@@ -1,3 +1,6 @@
+01. Classes and Objects: The Blueprint and the Building
+
+
 • Class: Think of a class as a blueprint or a template. It defines what an objectwill be like – what data it will hold and what actions it can perform. It doesn’tcreate the object itself, just the instructions for creating it. It’s like anarchitectural plan for a house.
 
 
