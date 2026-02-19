@@ -9,6 +9,6 @@ class Car:  #class
     def get_car_info(self):  # method
         print(f"car model is {self.model} and car brand is {self.brand}")
 
-my_car = Car("tata","safari")
+my_car = Car("tata","safari")  #objectjj
 
 my_car.get_car_info()
