@@ -1,4 +1,4 @@
-# create a class with car brand and model
+# create a class with car brand and model and add subclass 
 
 class Car:  #class
 
